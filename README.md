@@ -43,3 +43,13 @@ If you want a nicer look, you can add chess piece images (SVGs) from [Wikimedia 
 
 
 Feel free to download the SVG pieces from Wikimedia Commons and add them to your project to give your chess app a stylish graphical look!
+
+## Screenshots
+
+<img width="540" height="1206" alt="Image" src="https://github.com/user-attachments/assets/860e7583-c71d-4eec-8b89-0a8490ef15b5" />
+
+<img width="540" height="1206" alt="Image" src="https://github.com/user-attachments/assets/fffe36bf-689c-446f-9f76-f84a38bd59fd" />
+
+<img width="540" height="1206" alt="Image" src="https://github.com/user-attachments/assets/a626ed0a-c95e-4c09-a118-c97dc90fbf7d" />
+
+---
